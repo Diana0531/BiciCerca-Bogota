@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+langgraph
+httpx
+python-dotenv
+python-multipart
+pillow
+google-genai
